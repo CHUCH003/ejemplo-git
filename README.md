@@ -1,2 +1,2 @@
-# ejemplo-github
+# ejemplo-git
 Aprendiendo GitHub
